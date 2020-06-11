@@ -1,5 +1,6 @@
 [
-  {	"id":"01",
+  {
+	"id":"01",
     "kod": "AB",
     "postadress": "Box 22550",
     "postnummer": "10422",
@@ -148,7 +149,8 @@
     "url": "http://www.sll.se/",
     "postort": "STOCKHOLM"
   },
-  {	"id":"03",
+  {
+	"id":"03",
     "kod": "C",
     "postadress": "Box 602",
     "postnummer": "75125",
@@ -349,7 +351,8 @@
     "url": "http://www.lul.se/",
     "postort": "UPPSALA"
   },
-  {	"id":"04",
+  {
+	"id":"04",
     "kod": "D",
     "postnummer": "61188",
     "telefon": "0155-245000",
@@ -534,7 +537,8 @@
     "url": "http://www.landstingetsormland.se/",
     "postort": "NYKÖPING"
   },
-  {	"id":"05",
+  {
+	"id":"05",
     "kod": "E",
     "postnummer": "58191",
     "telefon": "010-1030000",
@@ -799,7 +803,8 @@
     "url": "http://www.lio.se/",
     "postort": "LINKÖPING"
   },
-  {	"id":"06",
+  {
+	"id":"06",
     "kod": "F",
     "postadress": "Box 1024",
     "postnummer": "55111",
@@ -1163,7 +1168,8 @@
     "url": "http://www.rjl.se/",
     "postort": "JÖNKÖPING"
   },
-  {	"id":"07",
+  {
+	"id":"07",
     "kod": "G",
     "postnummer": "35188",
     "telefon": "0470-588000",
@@ -1453,7 +1459,8 @@
     "url": "http://www.ltkronoberg.se/",
     "postort": "VÄXJÖ"
   },
-  {	"id":"08",
+  {
+	"id":"08",
     "kod": "H",
     "postadress": "Box 601",
     "postnummer": "39126",
@@ -1730,7 +1737,8 @@
     "url": "http://www.ltkalmar.se/",
     "postort": "KALMAR"
   },
-  {	"id":"09",
+  {
+	"id":"09",
     "kod": "I",
     "postnummer": "62181",
     "telefon": "0498-269000",
@@ -1827,7 +1835,8 @@
     "url": "http://www.gotland.se/",
     "postort": "VISBY"
   },
-  {	"id":"10",
+  {
+	"id":"10",
     "kod": "K",
     "postnummer": "37181",
     "telefon": "0455-731000",
@@ -1960,7 +1969,8 @@
     "url": "http://www.ltblekinge.se/",
     "postort": "KARLSKRONA"
   },
-  {	"id":"12",
+  {
+	"id":"12",
     "kod": "M",
     "postnummer": "29189",
     "telefon": "044-3093000",
@@ -2144,7 +2154,8 @@
     "url": "http://www.skane.se/",
     "postort": "KRISTIANSTAD"
   },
-  {	"id":"13",
+  {
+	"id":"13",
     "kod": "N",
     "postadress": "Box 517",
     "postnummer": "30180",
@@ -2358,7 +2369,8 @@
     "url": "http://www.regionhalland.se/",
     "postort": "HALMSTAD"
   },
-  {	"id":"14",
+  {
+	"id":"14",
     "kod": "O",
     "postnummer": "46280",
     "telefon": "010-4410000",
@@ -2703,7 +2715,8 @@
     "url": "http://www.vgregion.se/",
     "postort": "Vänersborg"
   },
-  {	"id":"17",
+  {
+	"id":"17",
     "kod": "S",
     "postnummer": "65182",
     "telefon": "054-615000",
@@ -2926,7 +2939,8 @@
     "url": "http://www.liv.se/",
     "postort": "KARLSTAD"
   },
-  {	"id":"18",
+  {
+	"id":"18",
     "kod": "T",
     "postadress": "Box 1613",
     "postnummer": "70116",
@@ -3154,7 +3168,8 @@
     "url": "http://www.regionorebrolan.se",
     "postort": "ÖREBRO"
   },
-  {	"id":"19",
+  {
+	"id":"19",
     "kod": "U",
     "postnummer": "72189",
     "telefon": "021-173000",
@@ -3355,7 +3370,8 @@
     "url": "http://www.ltv.se/",
     "postort": "VÄSTERÅS"
   },
-  {	"id":"20",
+  {
+	"id":"20",
     "kod": "W",
     "postadress": "Box 712",
     "postnummer": "79129",
@@ -3607,7 +3623,8 @@
     "url": "http://www.ltdalarna.se/",
     "postort": "FALUN"
   },
-  {	"id":"21",
+  {
+	"id":"21",
     "kod": "X",
     "postnummer": "80188",
     "telefon": "026-154000",
@@ -3811,7 +3828,8 @@
     "url": "http://www.lg.se/",
     "postort": "GÄVLE"
   },
-  {	"id":"22",
+  {
+	"id":"22",
     "kod": "Y",
     "postnummer": "87185",
     "telefon": "0611-80000",
@@ -3984,7 +4002,8 @@
     "url": "http://www.lvn.se/",
     "postort": "HÄRNÖSAND"
   },
-  {	"id":"23",
+  {
+	"id":"23",
     "kod": "Z",
     "postadress": "Box 654",
     "postnummer": "83127",
@@ -4244,7 +4263,8 @@
     "url": "http://www.jll.se/",
     "postort": "ÖSTERSUND"
   },
-  {	"id":"24",
+  {
+	"id":"24",
     "kod": "AC",
     "postnummer": "90189",
     "telefon": "090-7857000",
@@ -4480,7 +4500,8 @@
     "url": "http://www.vll.se/",
     "postort": "UMEÅ"
   },
-  {	"id":"25",
+  {
+	"id":"25",
     "kod": "BD",
     "postnummer": "97189",
     "telefon": "0920-284000",
